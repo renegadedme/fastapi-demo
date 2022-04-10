@@ -1,0 +1,4 @@
+#these files will not be checked into Git
+__pycache__
+venv/
+.env
